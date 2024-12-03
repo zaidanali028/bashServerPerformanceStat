@@ -86,7 +86,7 @@ Run the script directly:
 
 ## Acknowledgments
 
-#  Huge thanks to [roadmap.sh](https://roadmap.sh) for inspiring this server performance monitoring journey and empowering developers with clear, actionable system insights! 💡🚀 [Roadmap Project Link](https://roadmap.sh/projects/server-stats)
+ Huge thanks to [roadmap.sh](https://roadmap.sh) for inspiring this server performance monitoring journey and empowering developers with clear, actionable system insights! 💡🚀 [Roadmap Project Link](https://roadmap.sh/projects/server-stats)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
