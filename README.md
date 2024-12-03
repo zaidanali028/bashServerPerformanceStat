@@ -84,8 +84,9 @@ Run the script directly:
 - This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 ---
 
+## Acknowledgments
 
-
+#  Huge thanks to [roadmap.sh](https://roadmap.sh) for inspiring this server performance monitoring journey and empowering developers with clear, actionable system insights! 💡🚀 [Roadmap Project Link](https://roadmap.sh/projects/server-stats)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
