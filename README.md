@@ -76,7 +76,7 @@ Run the script directly:
 
 - Tested on Ubuntu/Debian-based systems
 - Requires read access to system log files
-- Some commands may require sudo privileges depending on system configuration
+
 
 ## 📜 License  
 
