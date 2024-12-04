@@ -77,6 +77,28 @@ Run the script directly:
 - Tested on Ubuntu/Debian-based systems
 - Requires read access to system log files
 
+## Running the Script
+
+### Permissions Setup
+```bash
+chmod +x server_stats.sh
+```
+
+### Execution Methods
+```bash
+# Direct execution
+./server_stats.sh
+```
+
+### Troubleshooting
+- Verify script location
+- Check permissions: `ls -l server_stats.sh`
+- Confirm user privileges
+
+### Best Practices
+- Review script contents before execution
+- Limit execute permissions
+- Store in secure directory
 
 ## 📜 License  
 
